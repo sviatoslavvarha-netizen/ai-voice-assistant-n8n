@@ -25,3 +25,4 @@ Telegram Voice Message
 → AI Agent (Intent Recognition + autonomes Tool Selection)
 → Google Calendar / Gmail
 → Bestätigung zurück in Telegram
+<img width="1667" height="852" alt="image" src="https://github.com/user-attachments/assets/d5157c68-867f-4825-93c5-e6d20b84afdf" />
